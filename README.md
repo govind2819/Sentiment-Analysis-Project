@@ -18,7 +18,7 @@ This project performs sentiment analysis using a Random Forest Classifier. It in
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sentiment-analysis.git
+   git clone https://github.com/govind2819/Sentiment-Analysis-Project.git
    cd sentiment-analysis
 Sentiment Analysis/
 │
