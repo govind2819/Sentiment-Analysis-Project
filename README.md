@@ -20,3 +20,11 @@ This project performs sentiment analysis using a Random Forest Classifier. It in
    ```bash
    git clone https://github.com/your-username/sentiment-analysis.git
    cd sentiment-analysis
+Sentiment Analysis/
+│
+├── [main.ipynb]        # Jupyter Notebook
+├── README.md           # Project description
+├── requirements.txt    # Dependencies
+├── [train.txt]         # Training dataset
+├── [val.txt]           # Validation dataset
+└── .gitignore          # Git ignore file
