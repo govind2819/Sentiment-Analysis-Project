@@ -29,5 +29,5 @@ It uses **Natural Language Processing (NLP)** and **Machine Learning** technique
 ## 🚀 How to Run the Project
 
 1. **Clone the Repository**
-   git clone https://github.com/govind2819/Sentiment-Analysis-Project.git
-   cd Sentiment-Analysis-Project
+  - git clone https://github.com/govind2819/Sentiment-Analysis-Project.git
+  - cd Sentiment-Analysis-Project
