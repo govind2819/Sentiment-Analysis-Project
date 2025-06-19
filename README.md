@@ -1,30 +1,33 @@
-# Sentiment Analysis Project
+# 🧠 Sentiment Analysis Project
 
-This project performs sentiment analysis using a Random Forest Classifier. It includes data preprocessing, feature extraction, and hyperparameter tuning to classify text into positive and negative sentiments.
+This project performs sentiment analysis on text data (e.g., product reviews, social media posts) to determine whether the sentiment is **Positive**, **Negative**, or **Neutral**.
 
-## Features
-- Data preprocessing (removal of duplicates, stopwords, and lemmatization).
-- Visualization of word frequencies using WordCloud.
-- Feature extraction using Bag of Words (CountVectorizer).
-- Hyperparameter tuning using GridSearchCV.
-- Evaluation metrics including classification report and confusion matrix.
+It uses **Natural Language Processing (NLP)** and **Machine Learning** techniques to classify sentiment automatically.
 
-## Setup Instructions
+---
 
-### Prerequisites
-- Python 3.7 or higher
+## 📌 Features
+
+- Cleaned and preprocessed real-world text data
+- Converted text into numerical format using **TF-IDF Vectorizer**
+- Trained using multiple ML algorithms (Logistic Regression, SVM, etc.)
+- Evaluated using Accuracy, Precision, Recall, and Confusion Matrix
+- Visualized the results for clear interpretation
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- Python
+- pandas, numpy, matplotlib, seaborn
+- scikit-learn (ML Models, TF-IDF)
+- Natural Language Toolkit (NLTK)
 - Jupyter Notebook
 
-### Installation
-1. Clone the repository:
-   ```bash
+---
+
+## 🚀 How to Run the Project
+
+1. **Clone the Repository**
    git clone https://github.com/govind2819/Sentiment-Analysis-Project.git
-   cd sentiment-analysis
-Sentiment Analysis/
-│
-├── [main.ipynb]        # Jupyter Notebook
-├── README.md           # Project description
-├── requirements.txt    # Dependencies
-├── [train.txt]         # Training dataset
-├── [val.txt]           # Validation dataset
-└── .gitignore          # Git ignore file
+   cd Sentiment-Analysis-Project
